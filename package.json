@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "i18next": "^19.8.4",
+    "i18next-browser-languagedetector": "^6.0.1"
+  }
+}
