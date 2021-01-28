@@ -1,6 +1,6 @@
-# lib-react-i18next
+# lib-i18next
 
-Este projeto foi realizando utilizando a lib react-i18next &lt;3
+Este projeto foi realizando utilizando as libs i18next e a i18next-browser-languagedetector &lt;3
 
 
 ## Tecnologias
@@ -14,4 +14,4 @@ Este projeto foi realizando utilizando a lib react-i18next &lt;3
 - entre na pasta **aplicacao-multi-idiomas**
 - instale as dependências **yarn install**
 - inicie o projeto com **yarn start**# lib-react-i18next
-Estudo da Lib react-i18next &lt;3
+
